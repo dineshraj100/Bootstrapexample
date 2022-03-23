@@ -1,0 +1,25 @@
+i{
+    color: blueviolet;
+}
+a{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+span{
+    font-size: 14px;
+}
+.text{
+    margin: 10px 0px;
+}
+.insidebox{
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 0px;
+}
+.Box{
+    padding:60px 0px;
+    
+}
+body{
+    background-color: gray;
+}
